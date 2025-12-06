@@ -1,3 +1,5 @@
+# Bunday kodlar restaran kafe yoki shunga o'xshash joylarda mijoz xoxish-istagini bildirishi uchun yaratilgan dasturning backend qismida uchraydi
+
 mahsulotlar=['sut','qatiq','anor','banan','olma']
 savat=[]
 print('3 ta mahsulot qo\'shing')
