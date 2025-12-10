@@ -1,6 +1,7 @@
-# Bunday kodlar restaran kafe yoki shunga o'xshash joylarda mijoz xoxish-istagini bildirishi uchun yaratilgan dasturning backend qismida uchraydi
+# Bunday kodlar magazinlar yoki shunga o'xshash joylarda mijoz xoxish-istagini bildirishi
+# uchun yaratilgan dasturning backend qismida uchraydi
 
-mahsulotlar=['sut','qatiq','anor','banan','olma']
+mahsulotlar=['sut','limon','anor','banan','olma','nok','shakar','asal','uzum','anjir','shaftoli','o\'rik']
 savat=[]
 print('3 ta mahsulot qo\'shing')
 for n in range(3):
